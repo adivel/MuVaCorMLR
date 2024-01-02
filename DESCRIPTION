@@ -1,0 +1,13 @@
+Package: MuVaCorMLR
+Title: Multiple variable correlation and relation
+Version: 0.0.0.9000
+Authors@R: 
+    person("Adiyanthy", "Velpandian", , "adiyanthy@gmail.com", role = c("autor", "creator"),
+           comment = c(ORCID = "0009-0004-3569-2091"))
+Description: This package gives a visual representation of your dataset using pearson's correlation heatmap. And it's future versions will be included with direct MLR prediction. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+ 
