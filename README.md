@@ -10,7 +10,7 @@ To use this R package online please following link: https://adiyanthy.shinyapps.
 ![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/9bd11f8a-9e1c-4b73-a438-e9c44eb421c1)
 
 
-# TAB 3: THRESHOULD HEATMAP
+# TAB 3: VIEW THRESHOULD HEATMAP
 ![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/11fd6c9b-ad4e-4cf4-a58e-f9cdfe5371f3)
 
 
