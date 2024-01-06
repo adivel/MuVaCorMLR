@@ -2,12 +2,15 @@ This package gives a visual representation of your dataset using pearson's corre
 
 To use this R package online please following link: https://adiyanthy.shinyapps.io/MuVaCorMLR/
 
-# TAB 1:
-![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/26b2b00b-0705-4f78-9b48-cf8cb62b35af)
+# TAB 1: VIEW DATASET
+![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/594ac5b2-da8a-4c9f-89d5-6170c1a36957)
 
-# TAB 2:
-![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/7e53701c-e5f3-4672-aa3c-da154cb696bc)
 
-# TAB 3: 
-![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/2edd1d6b-70a7-4d66-9e8c-6828cf182d74)
+# TAB 2: VIEW DYNAMIC HEATMAP
+![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/9bd11f8a-9e1c-4b73-a438-e9c44eb421c1)
+
+
+# TAB 3: THRESHOULD HEATMAP
+![image](https://github.com/adivel/MuVaCorMLR/assets/63438678/11fd6c9b-ad4e-4cf4-a58e-f9cdfe5371f3)
+
 
